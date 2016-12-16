@@ -1,0 +1,191 @@
+@UTF8
+@PID:	11312/c-00015807-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Sarah Target_Child , MOT Mother , GAI Gail Investigator
+@ID:	eng|Brown|CHI|4;3.19|female|||Target_Child|||
+@ID:	eng|Brown|MOT|||||Mother|||
+@ID:	eng|Brown|GAI|||||Investigator|||
+@Time Duration:	11:30-12:00
+@Situation:	Sarah removes rubber band from around pack of cards Gail brought
+*CHI:	now .
+%mor:	adv|now .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	I know how to take (e)lastic off .
+%mor:	pro:sub|I v|know adv:int|how inf|to v|take n|elastic adv|off .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|INF 5|3|XCOMP 6|5|OBJ 7|5|JCT 8|2|PUNCT
+*GAI:	you know how to take plastic off ?
+%mor:	pro:per|you v|know adv:int|how inf|to v|take n|plastic adv|off ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|INF 5|3|XCOMP 6|5|OBJ 7|5|JCT 8|2|PUNCT
+*CHI:	the (e)lastic .
+%mor:	det:art|the n|elastic .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*GAI:	oh the (e)lastic .
+%mor:	co|oh det:art|the n|elastic .
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*CHI:	c(an) I bring (.) still have these ?
+%mor:	mod|can pro:sub|I v|bring adv|still v|have pro:dem|these ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+*GAI:	do you still have these ?
+%mor:	mod|do pro:per|you adv|still v|have pro:dem|these ?
+%gra:	1|4|AUX 2|1|OBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	I have em (.) always ?
+%mor:	pro:sub|I v|have pro:obj|them adv|always ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*CHI:	I keep em ?
+%mor:	pro:sub|I v|keep pro:obj|them ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*GAI:	can ya keep em ?
+%mor:	mod|can pro:per|you v|keep pro:obj|them ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*GAI:	you can look at em today .
+%mor:	pro:per|you mod|can cop|look prep|at pro:obj|them adv:tem|today .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|4|POBJ 7|3|PUNCT
+*CHI:	but (.) c(oul)d I keep em now ?
+%mor:	conj|but mod|could pro:sub|I v|keep pro:obj|them adv|now ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*GAI:	I think maybe I'll take em and maybe bring them back next week .
+%mor:	pro:sub|I v|think adv|maybe pro:sub|I~mod|will v|take pro:obj|them
+	coord|and adv|maybe v|bring pro:obj|them adv|back adv|next n|week .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|SUBJ 5|6|AUX 6|2|COMP 7|6|OBJ 8|6|CONJ
+	9|10|JCT 10|8|COORD 11|10|OBJ 12|14|JCT 13|14|JCT 14|10|OBJ 15|2|PUNCT
+*CHI:	(o)kay (.) and you will let me keep em ?
+%mor:	co|okay coord|and pro:per|you mod|will v|let&ZERO pro:obj|me v|keep
+	pro:obj|them ?
+%gra:	1|5|COM 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|XCOMP 8|7|OBJ
+	9|5|PUNCT
+%act:	opens picture book Gail has brought
+*CHI:	my_goodness .
+%mor:	co|my_goodness .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	opens picture book Gail has brought
+*GAI:	what d(o) ya see (.) Sarah ?
+%mor:	pro:int|what mod|do pro:per|you v|see n:prop|Sarah ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	I see a cat (.) a real cat on the picture .
+%mor:	pro:sub|I v|see det:art|a n|cat det:art|a adj|real n|cat prep|on
+	det:art|the n|picture .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|DET 6|7|MOD 7|4|XMOD 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|2|PUNCT
+*CHI:	dere [: there's] a cat washin(g) his hands .
+%mor:	pro:exist|there~cop|be&3S det:art|a n|cat part|wash-PRESP
+	det:poss|his n|hand-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|XMOD 6|7|MOD 7|5|OBJ 8|2|PUNCT
+%par:	laughs
+*CHI:	<dat [: that] a> [/] dat [: that] a big cat (.) is zat [: that] a
+	little cat ?
+%mor:	pro:rel|that det:art|a adj|big n|cat cop|be&3S pro:rel|that
+	det:art|a adj|little n|cat ?
+%gra:	1|4|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|9|LINK 7|9|DET 8|9|MOD
+	9|5|PRED 10|5|PUNCT
+%gpx:	<7> points to two pictures of cats
+*GAI:	I guess so .
+%mor:	pro:sub|I n|guess adv|so .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|NJCT 4|2|PUNCT
+*CHI:	he had his underpants on ?
+%mor:	pro:sub|he v|have&PAST det:poss|his n|underpant-PL adv|on ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|JCT 6|2|PUNCT
+*GAI:	that's what it looks like .
+%mor:	pro:dem|that~cop|be&3S pro:int|what pro:per|it cop|look-3S
+	prep|like .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|COMP 6|5|JCT 7|2|PUNCT
+*CHI:	is it ?
+%mor:	aux|be&3S pro:per|it ?
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+*GAI:	sure .
+%mor:	adj|sure .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	dat [: that] his undershirt ?
+%mor:	pro:rel|that det:poss|his under#n|shirt ?
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*GAI:	I guess so .
+%mor:	pro:sub|I n|guess adv|so .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|NJCT 4|2|PUNCT
+*CHI:	yes it is .
+%mor:	co|yes pro:per|it cop|be&3S .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	de [: the] face (.) dat [: that's] de [: the] face .
+%mor:	det:art|the n|face pro:rel|that~aux|be&3S det:art|the n|face .
+%gra:	1|2|DET 2|0|INCROOT 3|6|LINK 4|6|AUX 5|6|DET 6|2|CMOD 7|2|PUNCT
+*GAI:	mhm .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	dat [: that's] de [: the] face+cloth .
+%mor:	pro:dem|that~cop|be&3S det:art|the n|+n|face+n|cloth .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*GAI:	mhm .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	dat [: that's] de [: the] sink .
+%mor:	pro:dem|that~cop|be&3S det:art|the n|sink .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	face+cloth and soap (.) Ivory_Soap .
+%mor:	n|+n|face+n|cloth coord|and n|soap n:prop|Ivory_Soap .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|MOD 4|2|COORD 5|1|PUNCT
+*CHI:	and dat [: that] where ya keep de [: the] (.) &-um (.) face+cloth .
+%mor:	coord|and pro:dem|that pro:rel|where pro:per|you v|keep det:art|the
+	n|+n|face+n|cloth .
+%gra:	1|0|INCROOT 2|1|COORD 3|5|LINK 4|5|SUBJ 5|2|CMOD 6|7|DET 7|5|OBJ
+	8|1|PUNCT
+%gpx:	points to picture of towel rack
+*MOT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%add:	GAI
+*MOT:	I don't know which xxx .
+%mor:	pro:sub|I mod|do~neg|not v|know pro:int|which .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%add:	GAI
+@Tape Location:	2:101
+*GAI:	that's tricky .
+%mor:	pro:dem|that~cop|be&3S adj|trick&dv-Y .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%add:	MOT
+*CHI:	look at de [: the] elephant .
+%mor:	cop|look prep|at det:art|the n|elephant .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*GAI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	he's a little boy .
+%mor:	pro:sub|he~aux|be&3S det:art|a adj|little n|boy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*GAI:	what's he doing ?
+%mor:	pro:int|what~aux|be&3S pro:sub|he part|do-PRESP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	he's lookin(g) at the window (.) the stars (.) a falling+star .
+%mor:	pro:sub|he~aux|be&3S part|look-PRESP prep|at det:art|the n|window
+	det:art|the n|star-PL det:art|a n|+n|falling+n|star .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|8|DET 8|3|OBJ
+	9|10|DET 10|8|OBJ 11|3|PUNCT
+*GAI:	mhm .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	did you (.) did you heard of a fallin(g)+star ?
+%mor:	v|do&PAST pro:per|you v|do&PAST pro:per|you v|hear&PAST prep|of
+	det:art|a n|+n|falling+n|star ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*GAI:	I did .
+%mor:	pro:sub|I v|do&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*GAI:	have you ever seen one ?
+%mor:	v|have pro:per|you adv|ever part|see&PASTP pro:indef|one ?
+%gra:	1|0|ROOT 2|1|OBJ 3|4|JCT 4|1|XJCT 5|4|OBJ 6|1|PUNCT
+*CHI:	yep (.) huh ?
+%mor:	co|yep co|huh ?
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*GAI:	what does it look like ?
+%mor:	pro:int|what mod|do&3S pro:per|it co|look co|like ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|5|COM 5|3|COM 6|3|PUNCT
+*CHI:	it look like <one here (a)n(d) one here (.) (a)n(d) one here (.)
+	(a)n(d) one here (.) (a)n(d)> [/] one here (.) (a)n(d) one here (.)
+	<one there (.) one there (.) one there> [/] (.) one there .
+%mor:	pro:per|it cop|look conj|like pro:indef|one adv|here coord|and
+	det:num|one adv|here pro:indef|one adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|OBJ 5|4|NJCT 6|5|CONJ 7|9|QUANT 8|9|JCT
+	9|6|COORD 10|9|NJCT 11|2|PUNCT
+@End
