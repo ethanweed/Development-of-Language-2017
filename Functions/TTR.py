@@ -39,4 +39,4 @@ def TTRplot (pathin):
     plt.xticks(xpos, titles, rotation = 80)
     plt.title('Type to token ratio')
     plt.show
-    
+    return(ttratio)
